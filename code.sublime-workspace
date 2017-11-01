@@ -1,0 +1,912 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"site",
+				"sitemaps"
+			],
+			[
+				"similar",
+				"similar_posts"
+			],
+			[
+				"tag",
+				"tag_slug"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"pos",
+				"post_url"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"p",
+				"publish"
+			],
+			[
+				"publ",
+				"published"
+			],
+			[
+				"P",
+				"PostAdmin"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"catego",
+				"category_Slug"
+			],
+			[
+				"pr",
+				"prepopulated_fields"
+			],
+			[
+				"C",
+				"CategoryAdmin"
+			],
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"db",
+				"db_index"
+			],
+			[
+				"m",
+				"mobilenumber"
+			],
+			[
+				"roo",
+				"roomtype"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"che",
+				"checkout"
+			],
+			[
+				"chec",
+				"checkin"
+			],
+			[
+				"user",
+				"userProfile"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"M",
+				"ModelAdmin"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"c",
+				"CharField"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ema",
+				"emailTo"
+			],
+			[
+				"e",
+				"emailForm"
+			],
+			[
+				"con",
+				"ContactForm"
+			],
+			[
+				"pro",
+				"profileAdmin"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tre",
+				"treasure"
+			],
+			[
+				"t",
+				"treasure_id"
+			],
+			[
+				"trea",
+				"treasure_id"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"Kirr",
+				"KirrURL"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"S",
+				"SHORTCODE_MAX"
+			],
+			[
+				"kirr",
+				"kirr_redirect_view"
+			],
+			[
+				"Ki",
+				"KirrURLManager"
+			],
+			[
+				"K",
+				"KirrURL"
+			],
+			[
+				"qs",
+				"qs"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"Tr",
+				"True"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"im",
+				"img_url"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"T",
+				"Treasure"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"tra",
+				"target	Attr"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"sto",
+				"stock_rs"
+			],
+			[
+				"new",
+				"newcategory_sql"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"login_",
+				"login_query"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"item",
+				"item_query"
+			],
+			[
+				"stoc",
+				"stockID"
+			],
+			[
+				"mysqli_Fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"stock",
+				"stock_rs"
+			],
+			[
+				"ca",
+				"cat_rs"
+			],
+			[
+				"cat_",
+				"cat_query"
+			],
+			[
+				"cat",
+				"cat_sql"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"mysqli_co",
+				"mysqli_connect_errno"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Br",
+				"br"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"he",
+				"line-height"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"mart",
+				"margin-bottom"
+			],
+			[
+				"ff",
+				"ffffff"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bod",
+				"border-top"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"j",
+				"j.u	java.util."
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bro",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/templates/blog/base.html",
+			"settings":
+			{
+				"buffer_size": 814,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3496,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/struggle/Desktop/django/mysite",
+		"/C/Users/struggle/Desktop/django/mysite/blog",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/search",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/search/indexes",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/search/indexes/blog",
+		"/C/Users/struggle/Desktop/django/mysite/mysite"
+	],
+	"file_history":
+	[
+		"/C/Users/struggle/Desktop/solr/solr-4.10.4/example/solr/blog/conf/schema.xml",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/blog/post/detail.html",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/blog/post/list.html",
+		"/C/Users/struggle/Desktop/django/mysite/blog/search_indexes.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/search/indexes/blog/post_text.txt",
+		"/C/Users/struggle/Desktop/django/mysite/blog/sitemaps.py",
+		"/C/Users/struggle/Desktop/django/mysite/mysite/urls.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/urls.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/feeds.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/blog/post/latest_posts.html",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templatetags/blog_tags.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templatetags/__init__.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/admin.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/forms.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/models.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/views.py",
+		"/C/Users/struggle/Desktop/django/mysite/mysite/settings.py",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/blog/base.html",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/blog/post/share.html",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/blog/post/share",
+		"/C/Users/struggle/Desktop/django/mysite/blog/templates/pagination.html",
+		"/C/Users/struggle/Desktop/django/mysite/blog/static/css/blog.css",
+		"/C/Users/struggle/Desktop/codes/Django_By_Example_Code/Chapter 1/mysite/mysite/settings.py",
+		"/C/Users/struggle/Desktop/django/mysite/mysite/__init__.py",
+		"/C/Users/struggle/Desktop/codes/Django_By_Example_Code/Chapter 1/mysite/blog/static/css/blog.css",
+		"/C/Users/struggle/Desktop/django/env/treasuregram/main_app/admin.py",
+		"/C/Users/struggle/Desktop/django/shopenv/src/shop/admin.py",
+		"/C/Users/struggle/Desktop/django/shopenv/src/shop/views.py",
+		"/C/Users/struggle/Desktop/django/shopenv/src/shop/urls.py",
+		"/C/Users/struggle/Desktop/django/shopenv/src/onshop/urls.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/contact/__init__.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/models.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/checkout/views.py",
+		"/C/Users/struggle/Desktop/testing template/hotel/index.php",
+		"/C/xampp/htdocs/hotel/index.php",
+		"/C/Users/struggle/Downloads/1.20-views.py",
+		"/C/Users/struggle/Downloads/1.20-models.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/admin.py",
+		"/C/Users/struggle/Downloads/1.19-models.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/base.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/checkout/templates/checkout.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/paymentprocess/settings.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/paymentprocess/urls.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/views.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/navbar.html",
+		"/C/Users/struggle/Downloads/1.17-checkout.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/home.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/profile.html",
+		"/C/Users/struggle/Desktop/penv/static/static/css/main.css",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/account/profile.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/profile",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/contact/templates/contact.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/account/logout.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/account/login.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/account/signup.html",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/contact/views.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/contact/forms.py",
+		"/C/Users/struggle/Downloads/1.14-settings.py",
+		"/C/Users/struggle/Desktop/penv/paymentprocess/profiles/templates/about.html",
+		"/C/Users/struggle/Downloads/1.05-settings.py",
+		"/C/Users/struggle/Downloads/settings.py",
+		"/C/Users/struggle/Desktop/env/treasuregram/main_app/views.py",
+		"/C/xampp/htdocs/tracemenepal/pageparts/header.php",
+		"/C/xampp/htdocs/tracemenepal/pages/package.php",
+		"/C/xampp/htdocs/soch/index.php",
+		"/C/xampp/htdocs/soch/login.php",
+		"/C/xampp/htdocs/soch/Contact.php",
+		"/C/xampp/htdocs/soch/Gallery.php",
+		"/C/xampp/htdocs/soch/destinations.php",
+		"/C/Users/struggle/Desktop/officialsite/index.html",
+		"/C/xampp/htdocs/soch/css/style.css",
+		"/C/xampp/htdocs/soch/footer.php",
+		"/E/officialsite/sendemail.php",
+		"/C/xampp/htdocs/soch/index.html",
+		"/C/xampp/htdocs/soch/signin.php",
+		"/C/xampp/htdocs/soch/header.php",
+		"/C/Users/struggle/Desktop/soch developers/soch/assets/css/style.css",
+		"/C/Users/struggle/Desktop/soch developers/soch/Gallery.html",
+		"/C/Users/struggle/Desktop/env/treasuregram/main_app/templates/detail.html",
+		"/C/Users/struggle/Desktop/env/treasuregram/main_app/static/style.css",
+		"/C/Users/struggle/Desktop/env/treasuregram/main_app/urls.py",
+		"/C/Users/struggle/Desktop/env/treasuregram/treasuregram/settings.py",
+		"/C/Users/struggle/Desktop/env/treasuregram/treasuregram/urls.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/views.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/utils.py",
+		"/C/Users/struggle/Desktop/venv/src/kirr/settings.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/admin.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/management/commands/refreshcodes.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/management/commands/__init__.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/management/__init__.py",
+		"/C/Users/struggle/Desktop/venv/src/shortener/management/__init__",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/newsletter/views.py",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/ecommerce2/urls.py",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/ecommerce2/settings/production.py",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/ecommerce2/settings/local.py",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/ecommerce2/settings/base.py",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/ecommerce2/old_settings.py",
+		"/C/Users/struggle/Desktop/ecommerce-2-master/src/carts/models.py",
+		"/C/Users/struggle/Desktop/venv/udemyblog/posts/url.py",
+		"/C/Users/struggle/Desktop/venv/udemyblog/crud.md",
+		"/C/Users/struggle/Desktop/venv/udemyblog/posts/migrations/0001_initial.py",
+		"/C/Users/struggle/Desktop/venv/udemyblog/posts/apps.py",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/main_app/admin.py",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/Treasuregram/urls.py",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/main_app/urls.py",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/Treasuregram/settings.py",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/main_app/static/style.css",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/main_app/models.py",
+		"/C/Users/struggle/Desktop/venv/Treasuregram/main_app/templates/index.html",
+		"/C/Users/struggle/Desktop/officialsite/css/main.css",
+		"/C/Users/struggle/Desktop/officialsite/css/bootstrap.min.css",
+		"/C/Users/struggle/Desktop/officialsite/css/responsive.css",
+		"/C/xampp/htdocs/TheCanvas/index.php",
+		"/C/Users/struggle/Desktop/venv/src/manage.py",
+		"/C/Users/struggle/Desktop/venv/src/test_project/__init__.py",
+		"/C/xampp/htdocs/test/confirmdelcategory.php",
+		"/C/xampp/htdocs/test/addcategory.php",
+		"/C/xampp/htdocs/test/deletecategory.php",
+		"/C/xampp/htdocs/test/login.php",
+		"/C/xampp/htdocs/test/header.php",
+		"/C/xampp/htdocs/test/category.php",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/test/entercategory.php",
+		"/C/xampp/htdocs/test/cpanel.php",
+		"/C/xampp/htdocs/test/confirmcategory",
+		"/C/xampp/htdocs/test/dbconnect.php",
+		"/C/xampp/htdocs/test/categorylist.php",
+		"/C/xampp/htdocs/test/home.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"',\n",
+			"contact",
+			"']\n",
+			"allowed_hosts",
+			"False",
+			"definition",
+			"ALLOWED_HOSTS = []",
+			"urls",
+			"	\n",
+			"navbar-br",
+			"padding",
+			".navbar-brand",
+			"navbar",
+			"navbar-header",
+			"navbar",
+			"85",
+			"Advvance Tech Developers",
+			"Oxygen",
+			"bazarkhoj.com",
+			"Singlebazar.com",
+			"Nepalibajar.com",
+			"products",
+			"service",
+			"products",
+			"portfolio",
+			"width",
+			"text",
+			"positio",
+			"margin",
+			"position",
+			"300",
+			"600",
+			"subdiv"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Advance Tech Developers",
+			"Advvance Tech Developers",
+			"Bazarkhoj.com",
+			"bazarkhoj.com",
+			"Singlebazar.com",
+			"Recent",
+			"join",
+			"products"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/templates/blog/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3313,
+								3313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "code.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
